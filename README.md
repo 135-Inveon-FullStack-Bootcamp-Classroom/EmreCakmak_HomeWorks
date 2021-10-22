@@ -1,2 +1,2 @@
 **Inveon-bootcamp**
-Inveon FullStack bootcamp suresince tamamlanan odevler.
+-Inveon FullStack bootcamp suresince tamamlanan odevler.
