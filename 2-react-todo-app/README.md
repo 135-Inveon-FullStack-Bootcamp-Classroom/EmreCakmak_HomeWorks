@@ -1,6 +1,6 @@
 ### TODO APP:
 
-#### [Projenin en son calisan haline buradan ulasabilirsiniz](https://bootcamp-emreckmk-react-todo-app.netlify.app/)
+#### [Projenin en son calisan haline buradan ulasabilirsiniz]()
 
 ### Projeyi çalıştırmak için:
 
