@@ -25,6 +25,7 @@ function TodoList() {
       return;
     }
     let newTodos = [...todos];
+
     //if trying to add same todo on the input then show error modal
     if (newTodos.length !== 0) {
       var i = 0;
@@ -35,6 +36,8 @@ function TodoList() {
         }
         i++;
       }
+      newTodos = [todo, ...todos];
+    } else {
       newTodos = [todo, ...todos];
     }
     setTodos(newTodos);
