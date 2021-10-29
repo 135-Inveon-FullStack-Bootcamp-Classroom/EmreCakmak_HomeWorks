@@ -15,28 +15,27 @@ function TodoList() {
 
   // storing the todo in the local storage
   const storeTodo = (todo) => {
-    /* todos = checkInStorage();
-    todos.push(todo); */
     localStorage.setItem('todos', JSON.stringify(todo));
   };
 
   //add new todo
   const addTodo = (todo) => {
-    const newTodos = [todo, ...todos];
-
     if (!todo.text || /^\s*$/.test(todo.text)) {
       //check if input is empty or not with regex
       return;
     }
+    let newTodos = [...todos];
     //if trying to add same todo on the input then show error modal
     if (newTodos.length !== 0) {
-      var i = 1;
+      var i = 0;
       while (i < newTodos.length) {
         if (newTodos[i].text === todo.text) {
           setModalIsOpen(true);
+          return;
         }
         i++;
       }
+      newTodos = [todo, ...todos];
     }
     setTodos(newTodos);
     //adding todo to localstorage
