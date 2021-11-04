@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "New 2021 Tesla Model S ",
+      "body": "With the longest range and quickest acceleration of any electric vehicle in production, Model S Plaid is the highest performing sedan ever built. All Model S powertrains, with updated battery architecture, are capable of back-to-back, consistent 1/4 mile runs.",
+      "author": "Emre",
+      "image": "https://images.unsplash.com/photo-1617704559606-5c2a5a59c90f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE5MDk0NjMz&ixlib=rb-1.2.1&q=80&w=1080&utm_source=unsplash_source&utm_medium=referral&utm_campaign=api-credit",
+      "date": "3 Nov 2021",
+      "category": "Cars",
+      "id": 1
+    },
+    {
+      "title": "Cupcake Party!",
+      "body": "A cupcake is a small cake designed to be eaten by one person. They are often baked in a small thin paper or aluminum cup. Like larger cakes, frosting and other cake decorations, such as sprinkles, are common on cupcakes. They are often sweet and include frosting. Some specialized bakeries sell only cupcakes.",
+      "author": "Ömer",
+      "image": "https://images.unsplash.com/photo-1606188074044-fcd750f6996a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE5MDk1MzY3&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+      "date": "3 Nov 2021",
+      "category": "Food",
+      "id": 2
+    },
+    {
+      "title": "Dune: Part One",
+      "body": "Feature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
+      "image": "https://media.cinemaximum.com.tr/255//Files/POSTER/DUNE_Poster.jpg",
+      "category": "Movies",
+      "author": "Emirhan",
+      "date": "3 Nov 2021",
+      "id": 3
+    },
+    {
+      "title": "The new Apple TV 4K arrives with HDMI 2.1, Thread wireless tech",
+      "body": "The new Apple TV has HDMI 2.1 and a new type of mesh networking technology built-in. Earlier today Apple introduced a new Apple TV 4K box (and a redesigned Siri remote that should be easier to use), and a close look at the spec sheet reveals a few more details about what it can do.",
+      "image": "https://images.unsplash.com/photo-1599398875076-5715de130a9b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218fHx8fHx8fHwxNjE5MDk1MTAy&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
+      "category": "Technology",
+      "author": "Emre",
+      "date": "3 Nov 2021",
+      "id": 4
+    }
+  ]
+}
