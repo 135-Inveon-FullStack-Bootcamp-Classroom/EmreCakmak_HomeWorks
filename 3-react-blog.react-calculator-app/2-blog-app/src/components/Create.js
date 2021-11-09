@@ -8,7 +8,7 @@ const Create = () => {
   const [image, setImage] = useState('');
   const [category, setCategory] = useState('Personal');
   const [isPending, setIsPending] = useState(false);
-  // const date = new Date().toJSON().slice(0, 10).split('-').reverse().join('-');look after page 40 calc->glrodasz
+  // const date = new Date().toJSON().slice(0, 10).split('-').reverse().join('-');
   const date = new Date().toLocaleDateString('en-GB', {
     day: 'numeric',
     month: 'short',
