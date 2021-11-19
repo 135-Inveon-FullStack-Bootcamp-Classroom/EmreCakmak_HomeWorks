@@ -11,6 +11,7 @@
 
 namespace OOP_Game.Properties
 {
+    using System;
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>
@@ -64,6 +65,14 @@ namespace OOP_Game.Properties
             set
             {
                 resourceCulture = value;
+            }
+        }
+        internal static System.Drawing.Bitmap tavuk
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("tavuk", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
     }
