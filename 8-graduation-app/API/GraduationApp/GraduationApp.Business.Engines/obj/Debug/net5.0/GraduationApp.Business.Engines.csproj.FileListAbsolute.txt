@@ -1,0 +1,17 @@
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\bin\Debug\net5.0\GraduationApp.Business.Engines.deps.json
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\bin\Debug\net5.0\GraduationApp.Business.Engines.dll
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\bin\Debug\net5.0\ref\GraduationApp.Business.Engines.dll
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\bin\Debug\net5.0\GraduationApp.Business.Engines.pdb
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\bin\Debug\net5.0\GraduationApp.Data.DAL.dll
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\bin\Debug\net5.0\GraduationApp.Data.Entities.dll
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\bin\Debug\net5.0\GraduationApp.Data.DAL.pdb
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\bin\Debug\net5.0\GraduationApp.Data.Entities.pdb
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\obj\Debug\net5.0\GraduationApp.Business.Engines.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\obj\Debug\net5.0\GraduationApp.Business.Engines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\obj\Debug\net5.0\GraduationApp.Business.Engines.AssemblyInfoInputs.cache
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\obj\Debug\net5.0\GraduationApp.Business.Engines.AssemblyInfo.cs
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\obj\Debug\net5.0\GraduationApp.Business.Engines.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\obj\Debug\net5.0\GraduationApp.Business.Engines.csproj.CopyComplete
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\obj\Debug\net5.0\GraduationApp.Business.Engines.dll
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\obj\Debug\net5.0\ref\GraduationApp.Business.Engines.dll
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Business.Engines\obj\Debug\net5.0\GraduationApp.Business.Engines.pdb
