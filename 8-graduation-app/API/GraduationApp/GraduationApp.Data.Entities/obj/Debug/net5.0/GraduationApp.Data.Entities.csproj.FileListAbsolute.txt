@@ -1,0 +1,12 @@
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Data.Entities\bin\Debug\net5.0\GraduationApp.Data.Entities.deps.json
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Data.Entities\bin\Debug\net5.0\GraduationApp.Data.Entities.dll
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Data.Entities\bin\Debug\net5.0\ref\GraduationApp.Data.Entities.dll
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Data.Entities\bin\Debug\net5.0\GraduationApp.Data.Entities.pdb
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Data.Entities\obj\Debug\net5.0\GraduationApp.Data.Entities.csproj.AssemblyReference.cache
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Data.Entities\obj\Debug\net5.0\GraduationApp.Data.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Data.Entities\obj\Debug\net5.0\GraduationApp.Data.Entities.AssemblyInfoInputs.cache
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Data.Entities\obj\Debug\net5.0\GraduationApp.Data.Entities.AssemblyInfo.cs
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Data.Entities\obj\Debug\net5.0\GraduationApp.Data.Entities.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Data.Entities\obj\Debug\net5.0\GraduationApp.Data.Entities.dll
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Data.Entities\obj\Debug\net5.0\ref\GraduationApp.Data.Entities.dll
+C:\Users\emre\Desktop\inveon-bootcamp\8-graduation-app\API\GraduationApp\GraduationApp.Data.Entities\obj\Debug\net5.0\GraduationApp.Data.Entities.pdb
